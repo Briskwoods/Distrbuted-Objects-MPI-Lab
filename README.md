@@ -17,5 +17,5 @@ Find the area under the curve in section(A) using Parallel Computing
 
 Answered in the MPITrapezoildalRule.py file.
 
-For question 2 and 3 we use the 'mpiexec -np x python ______.py' command to execute the files.
-Where 'x' is the number of processes and '______' is the .py file name.
+For question 2 and 3 we use the 'mpiexec -np x python 'filename'.py' command to execute the files.
+Where 'x' is the number of processes.
